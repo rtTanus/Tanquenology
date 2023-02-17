@@ -1,0 +1,51 @@
+    
+    body{
+        background-color: rgb(253, 255, 119);
+        text-align: center;
+    }
+
+    .cima {
+        display: flex;
+        justify-content: space-between;
+        padding: 10px;
+        background-color: #18a6ca;
+        border-bottom: 1px solid #ca1818;
+        border-radius: 40px;
+        border:none;  
+    }
+
+    .h1nav1 {
+        padding-left: 15px  ;
+        padding-top: 9px ;
+        font-family: Arial, Helvetica, sans-serif;
+        color: white;
+    }
+
+    .ul1{
+        display: flex;
+        list-style: none;
+        justify-content: space-between;
+        padding: 10px;  
+    }
+
+    li{
+        margin: 10px;
+    }
+
+    a {
+        color: #fff;
+        text-align: center;
+    }
+
+    .imagemcaixa{
+        display: flex;
+        justify-content: center;
+        border-radius: 20px;
+        border:none;  
+        
+    }
+    .imgoo {
+        display: flex;
+        justify-content: center;
+        padding-top: 10px;
+    }
